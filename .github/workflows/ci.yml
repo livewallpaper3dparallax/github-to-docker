@@ -45,4 +45,4 @@ jobs:
       with:
         context: .
         push: true
-        tags: user/app:latest
+        tags: imam3543/wallpaper:latest
